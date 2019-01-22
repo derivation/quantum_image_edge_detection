@@ -1,0 +1,21 @@
+ @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Sans');
+
+ /*********************************************
+  * HEADERS
+  *********************************************/
+ .reveal h1,
+ .reveal h2,
+ .reveal h3,
+ .reveal h4,
+ .reveal h5,
+ .reveal h6 {
+   font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
+ }
+
+ .reveal {
+   font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
+}
+
+body {
+  font-family: 'IBM Plex Sans', 'Helvetica Neue', Arial, sans-serif !important;
+}
